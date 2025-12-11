@@ -17,6 +17,7 @@ void main() async {
   switch (choice) {
     case "1":
       await readData();
+      afterWork();
       break;
 
     case "2":
