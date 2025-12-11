@@ -1,0 +1,7 @@
+name: database_helper
+
+environment:
+  sdk: '>=2.18.2 <3.0.0'
+
+executables:
+  database_helper: database_helper

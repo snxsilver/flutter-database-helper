@@ -1,0 +1,18 @@
+Table profile_users {
+  id int?
+  business_id varchar
+  name varchar?
+  username varchar
+  password varchar
+  address varchar?
+  phone varchar?
+  email varchar?
+  facebook varchar?
+  instagram varchar?
+  tiktok varchar?
+  image varchar?
+  role int
+  creator int
+  created_at datetime?
+  updated_at datetime?
+}
